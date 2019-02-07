@@ -1,4 +1,4 @@
-def dice_roll (rand(1.. 6))
+def dice_roll (1.. 6)
   Array#shuffle
 
 def roll
