@@ -1,6 +1,6 @@
-def dice_roll (1.. 6)
-  Array#shuffle
+SecureRandom.random_number
+
 
 def roll
-  dice_roll.roll
+  
 end
