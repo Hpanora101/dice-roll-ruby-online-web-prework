@@ -1,6 +1,3 @@
-def roll(1..6)
-  dice_roll.roll
-
-def
-
+def roll
+ rand(1..6)
 end
